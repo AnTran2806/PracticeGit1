@@ -1,0 +1,48 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="17.290226999999998">
+<testsuite name="reporterPractice1.spec.ts" timestamp="2026-02-25T15:17:57.408Z" hostname="chromium" tests="3" failures="0" skipped="0" time="7.475" errors="0">
+<testcase name="Reporter Practice 1" classname="reporterPractice1.spec.ts" time="1.844">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\reporterPractice1-Reporter-Practice-1-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Reporter Practice 2" classname="reporterPractice1.spec.ts" time="4.32">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\reporterPractice1-Reporter-Practice-2-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Reporter Practice 3" classname="reporterPractice1.spec.ts" time="1.311">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\reporterPractice1-Reporter-Practice-3-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="reporterPractice2.spec.ts" timestamp="2026-02-25T15:17:57.408Z" hostname="chromium" tests="3" failures="0" skipped="0" time="8.124" errors="0">
+<testcase name="Reporter Practice 4" classname="reporterPractice2.spec.ts" time="1.587">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\reporterPractice2-Reporter-Practice-4-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Reporter Practice 5" classname="reporterPractice2.spec.ts" time="3.63">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\reporterPractice2-Reporter-Practice-5-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Reporter Practice 6" classname="reporterPractice2.spec.ts" time="2.907">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\reporterPractice2-Reporter-Practice-6-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
